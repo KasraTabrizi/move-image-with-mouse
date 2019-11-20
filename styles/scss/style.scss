@@ -26,11 +26,11 @@
     position: absolute;
     border-radius: 15px;
     opacity: 0.8;
-    border: 2px solid #754F44;
+    border: 3px solid #754F44;
 }
 
 .box1 {
-    background-color: #E1CE7A;
+    background-color: rgba(114, 97, 21, 0.479);
     top: 200px;
     left: 200px;
     width: 150px;
@@ -38,7 +38,7 @@
 }
 
 .box2 {
-    background-color: #FDD692;
+    background-color: rgba(129, 123, 113, 0.486);
     top: 20px;
     left: 250px;
     width: 70px;
@@ -46,7 +46,7 @@
 }
 
 .box3 {
-    background-color: #EC7357;
+    background-color: rgba(65, 30, 21, 0.774);
     top: 100px;
     left: 500px;
     width: 40px;
@@ -54,16 +54,15 @@
 }
 
 .box4 {
-    background-color: #754F44;
+    background-color: rgba(11, 194, 27, 0.356);
     top: 150px;
     left: 700px;
-    border: 2px solid #E1CE7A;
     width: 100px;
     height: 100px;
 }
 
 .box5 {
-    background-color: #DACC3E;
+    background-color: rgba(218, 205, 62, 0.692);
     top: 200px;
     left: 875px;
     width: 200px;
